@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Textform from "./components/Textform";
 import Alert from "./components/Alert";
 
-
+/// this is copy of react app
 
 
 function App() {
